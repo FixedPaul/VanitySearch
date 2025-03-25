@@ -1,4 +1,4 @@
-# VanitySearch with FixedPaul CUDA Optimization for GPU
+# VanitySearch with CUDA Optimization for GPU
 
 # Feature
 
