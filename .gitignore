@@ -11,6 +11,5 @@ x64/
 obj/
 .idea/
 CMakeLists.txt
-VanitySearch
 cmake-build-debug/
 *.prf
